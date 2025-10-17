@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\ProjektMaxRobin\\ProjektMaxRobin.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\ProjektMaxRobin\\ProjektMaxRobin.csproj",
       "projectName": "ProjektMaxRobin",
-      "projectPath": "C:\\Users\\Admin\\ProjektMaxRobin\\ProjektMaxRobin.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ProjektMaxRobin\\ProjektMaxRobin.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\ProjektMaxRobin\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\ProjektMaxRobin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
