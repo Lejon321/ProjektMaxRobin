@@ -1,0 +1,15 @@
+C:\Users\Admin\ProjektMaxRobin\obj\Debug\net9.0\ProjektMaxRobin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\ProjektMaxRobin\obj\Debug\net9.0\ProjektMaxRobin.AssemblyInfoInputs.cache
+C:\Users\Admin\ProjektMaxRobin\obj\Debug\net9.0\ProjektMaxRobin.AssemblyInfo.cs
+C:\Users\Admin\ProjektMaxRobin\obj\Debug\net9.0\ProjektMaxRobin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\ProjektMaxRobin\obj\Debug\net9.0\ProjektMaxRobin.sourcelink.json
+C:\Users\Admin\ProjektMaxRobin\bin\Debug\net9.0\ProjektMaxRobin.exe
+C:\Users\Admin\ProjektMaxRobin\bin\Debug\net9.0\ProjektMaxRobin.deps.json
+C:\Users\Admin\ProjektMaxRobin\bin\Debug\net9.0\ProjektMaxRobin.runtimeconfig.json
+C:\Users\Admin\ProjektMaxRobin\bin\Debug\net9.0\ProjektMaxRobin.dll
+C:\Users\Admin\ProjektMaxRobin\bin\Debug\net9.0\ProjektMaxRobin.pdb
+C:\Users\Admin\ProjektMaxRobin\obj\Debug\net9.0\ProjektMaxRobin.dll
+C:\Users\Admin\ProjektMaxRobin\obj\Debug\net9.0\refint\ProjektMaxRobin.dll
+C:\Users\Admin\ProjektMaxRobin\obj\Debug\net9.0\ProjektMaxRobin.pdb
+C:\Users\Admin\ProjektMaxRobin\obj\Debug\net9.0\ProjektMaxRobin.genruntimeconfig.cache
+C:\Users\Admin\ProjektMaxRobin\obj\Debug\net9.0\ref\ProjektMaxRobin.dll
